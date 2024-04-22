@@ -19,3 +19,4 @@ log/
 
 #python
 __pycache__/
+skb_wamv/wamv_target.urdf
