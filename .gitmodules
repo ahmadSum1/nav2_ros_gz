@@ -12,3 +12,4 @@
 [submodule "src/navigation2_tutorials"]
 	path = src/navigation2_tutorials
 	url = https://github.com/ahmadSum1/navigation2_tutorials.git
+	branch = humble-garden
